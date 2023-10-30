@@ -8,8 +8,8 @@ Logo demonstration video- https://drive.google.com/file/d/1-gEIJiSImQAgJg5LAGVYB
 
 Assignments
 
-Brand Name: lee's martialarts club 
-LinkedIn Profile URL: https://www.linkedin.com/in/sundar-c-857265272
-Facebook Page URL: https://www.facebook.com/profile.php?id=61550847664196&mibextid=avESrC
-Blog or Website URL: https://leesmartialartclub.blogspot.com/2023/09/blog-post.html
-Google Analytics Measurement ID: 
+1. Brand Name: lee's martialarts club 
+2. LinkedIn Profile URL: https://www.linkedin.com/in/sundar-c-857265272
+3. Facebook Page URL: https://www.facebook.com/profile.php?id=61550847664196&mibextid=avESrC
+4. Blog or Website URL: https://leesmartialartclub.blogspot.com/2023/09/blog-post.html
+5. Google Analytics Measurement ID: 
