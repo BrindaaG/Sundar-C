@@ -12,4 +12,4 @@ Assignments
 2. LinkedIn Profile URL: https://www.linkedin.com/in/sundar-c-857265272
 3. Facebook Page URL: https://www.facebook.com/profile.php?id=61550847664196&mibextid=avESrC
 4. Blog or Website URL: https://leesmartialartclub.blogspot.com/2023/09/blog-post.html
-5. Google Analytics Measurement ID: 
+5. Google Analytics Measurement ID: G-X4H24WYMB2
